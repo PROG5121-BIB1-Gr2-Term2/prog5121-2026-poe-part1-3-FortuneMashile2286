@@ -27,11 +27,18 @@ Features
 
 
  References
+ 
 
-* Oracle Java Documentation. (2023). *Java Platform Standard Edition Documentation*. Available at: https://docs.oracle.com/javase/8/docs/
-* W3Schools. (2023). *Java Tutorial*. Available at: https://www.w3schools.com/java/
-* GeeksforGeeks. (2023). *Java String Methods and Validation*. Available at: https://www.geeksforgeeks.org/java/
-* JUnit 5 User Guide. (2023). *JUnit Testing Framework*. Available at: https://junit.org/junit5/docs/current/user-guide/
+*Oracle. 2023. *Java Platform, Standard Edition Documentation*. Available at: https://docs.oracle.com/javase/8/docs/ (Accessed: 06 April 2026).
+
+*W3Schools. 2023. *Java Tutorial*. Available at: https://www.w3schools.com/java/ (Accessed: 04 April 2026).
+
+*GeeksforGeeks. 2023. *Java Programming Language*. Available at: https://www.geeksforgeeks.org/java/ (Accessed: 04 April 2026).
+
+*JUnit. 2023. *JUnit 5 User Guide*. Available at: https://junit.org/junit5/docs/current/user-guide/ (Accessed: 04 April 2026).
+
+*Schildt, H. 2022. *Java: The Complete Reference*. 12th ed. New York: McGraw-Hill.
+
 
 
 
