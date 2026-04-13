@@ -28,8 +28,6 @@ Features
 
  References
 
-The following resources were used to understand and implement the program:
-
 * Oracle Java Documentation. (2023). *Java Platform Standard Edition Documentation*. Available at: https://docs.oracle.com/javase/8/docs/
 * W3Schools. (2023). *Java Tutorial*. Available at: https://www.w3schools.com/java/
 * GeeksforGeeks. (2023). *Java String Methods and Validation*. Available at: https://www.geeksforgeeks.org/java/
